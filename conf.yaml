@@ -1,0 +1,31 @@
+#GitBlog配置文件，使用4个空格代替Tab
+---
+url: /
+title: 寻梦者
+subtitle: 我是一枚普通的开发者，几乎可以完全忽略。
+theme: quest
+enableCache: true 
+highlight: true
+mathjax: true
+katex: true
+duoshuo: king
+baiduAnalytics:
+keywords: King-Blog,King,King博客,王信,wangxin
+description: >
+    GitBlog是一个简单易用的Markdown博客系统
+version: 2.2
+author:
+    name: King
+    email: wangxin.king@qq.com
+    github: wangxin-king
+    weibo: 314315
+    avatar: https://avatars1.githubusercontent.com/u/10682329?v=3&s=460
+blog:
+    recentSize: 5
+    pageSize: 6
+    pageBarSize: 5
+    allBlogsForPage: false
+text:
+    title: 介绍
+    intro: >
+          本博客使用Gitblog搭建，欢迎你!
