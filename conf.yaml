@@ -9,7 +9,7 @@ highlight: true
 mathjax: true
 katex: true
 duoshuo: king
-baiduAnalytics:
+baiduAnalytics: 16f688ca6ca9120ba461b4beb583e35a
 keywords: King-Blog,King,King博客,王信,wangxin
 description: >
     GitBlog是一个简单易用的Markdown博客系统
